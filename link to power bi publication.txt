@@ -1,0 +1,4 @@
+PROJECT     LINK
+
+sales : https://app.powerbi.com/links/z3pvYhj6DO?ctid=d9788fef-a055-4a18-8d01-06f0e328dc35&pbi_source=linkShare&bookmarkGuid=e8e3349f-1e2b-4a64-b3ba-50af5c0da7d1
+revenue : https://app.powerbi.com/links/et9tfZFXGp?ctid=d9788fef-a055-4a18-8d01-06f0e328dc35&pbi_source=linkShare
